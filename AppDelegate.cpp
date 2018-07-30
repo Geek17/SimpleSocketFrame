@@ -4,7 +4,7 @@
 USING_NS_CC;
 
 static cocos2d::Size designResolutionSize = cocos2d::Size(1280, 720);
-
+//测试GITHUB更新
 
 AppDelegate::AppDelegate() {
 
